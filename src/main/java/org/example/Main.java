@@ -27,7 +27,7 @@ public class Main {
         System.out.println("Drivers loaded");
         System.out.println("Opening browser");
 
-        driver.get("http://52.66.29.143:8081/contact.html#");
+        driver.get("http://3.111.149.125:8081/contact.html#");
 
         System.out.println("Application loading");
 
